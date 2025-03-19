@@ -2,7 +2,7 @@ if(false){
     var x = 10;
 }
 
-console.log(x);
+console.log(x); //undefined
 
 function fun() {
     console.log(y); // y is accessible here
